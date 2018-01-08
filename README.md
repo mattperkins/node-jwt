@@ -3,9 +3,9 @@
 ## node app
 
 # ENDPOINTS
-## localhost:5000/api
-## localhost:5000/api/posts
-## localhost:5000/api/login
+## GET   = localhost:5000/api
+## POST = localhost:5000/api/posts
+## POST = localhost:5000/api/login
 
 
 
